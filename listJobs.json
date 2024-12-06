@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6751b3fd5fe023c94f188e1b"
+  },
+  "title": "Frontend Developer",
+  "job_description": "Develop responsive user interfaces for web applications.",
+  "job_qualification": "HTML, CSS, JavaScript, React, Vue.js",
+  "job_type": "Remote",
+  "job_tenure": "Full-time",
+  "job_status": 1,
+  "company_name": "GoTo Group",
+  "company_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/GoTo_logo.svg/1200px-GoTo_logo.svg.png",
+  "company_city": "Jakarta",
+  "salary_min": 8000000,
+  "salary_max": 15000000,
+  "createdAt": "2024-10-16T04:30:28.597Z"
+},
+{
+  "_id": {
+    "$oid": "6751b50fb7847fad7bbab215"
+  },
+  "title": "Data Scientist",
+  "job_description": "Analyze data to help drive business decisions.",
+  "job_qualification": "Python, SQL, Machine Learning, Data Visualization",
+  "job_type": "Hybrid",
+  "job_tenure": "Full-time",
+  "job_status": 1,
+  "company_name": "Traveloka",
+  "company_image_url": "https://avatars.githubusercontent.com/u/1683964?s=280&v=4",
+  "company_city": "Jakarta",
+  "salary_min": 12000000,
+  "salary_max": 20000000,
+  "createdAt": "2024-10-16T04:32:05.844Z"
+}]
